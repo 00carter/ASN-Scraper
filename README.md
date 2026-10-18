@@ -1,4 +1,3 @@
-
 # ASN-Scraper
 
 ## Ranges
@@ -13,7 +12,8 @@
 
 ## How to run?
 
-1. Open `scraper.py` and set your range at the top. For example, Aly:
+1. `pip install -r requirements.txt`
+2. Open `scraper.py` and set your range at the top. For example, Aly:
 
 ```python
    FIRST = 0
