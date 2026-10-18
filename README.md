@@ -23,5 +23,6 @@
 2. Run it:
 
 ```bash
+   playwright install chromium
    python scraper.py
 ```
